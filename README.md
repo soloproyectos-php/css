@@ -1,2 +1,2 @@
 # css
-A library for parsing CSS expressions. This library is part of the SoloProyectos PHP API.
+A library for managing CSS expressions. This library is part of the SoloProyectos PHP API.
